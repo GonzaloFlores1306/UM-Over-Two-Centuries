@@ -48,7 +48,3 @@ Data was sourced from the Kaggle dataset:
 ---
 
 ✅ This project highlights the power of Python and Jupyter for real-world data analysis and storytelling with data.
-
----
-
-[Watch the full project here](https://github.com/GonzaloFlores1306/UM-Over-Two-Centuries/blob/main/Project01_AnalizingTwoCenturiesUM.ipynb)
